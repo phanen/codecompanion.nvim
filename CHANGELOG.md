@@ -1,5 +1,12 @@
 # Changelog
 
+## [17.3.1](https://github.com/olimorris/codecompanion.nvim/compare/v17.3.0...v17.3.1) (2025-06-24)
+
+
+### Bug Fixes
+
+* **workspace:** add description to buffer content ([#1713](https://github.com/olimorris/codecompanion.nvim/issues/1713)) ([ff939d1](https://github.com/olimorris/codecompanion.nvim/commit/ff939d18d8d64b0bef985aeb9be26f57e4ee8837))
+
 ## [17.3.0](https://github.com/olimorris/codecompanion.nvim/compare/v17.2.0...v17.3.0) (2025-06-24)
 
 
